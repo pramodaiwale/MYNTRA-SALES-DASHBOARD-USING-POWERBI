@@ -36,5 +36,5 @@ This Power BI dashboard provides a visual analysis of Myntra sales data. It high
 - Total
 - Seller
 
-👨‍💻 Created by: Vaibhav Malavi
+👨‍💻 Created by: Pramod Aiwale
 
